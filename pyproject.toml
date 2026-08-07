@@ -7,6 +7,7 @@ requires-python = ">=3.14"
 dependencies = [
     "dvc>=3.67.1",
     "flaml[automl]>=2.6.0",
+    "gradio>=6.22.0",
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.1",
     "numpy>=2.5.1",
@@ -14,4 +15,5 @@ dependencies = [
     "pandas>=3.0.5",
     "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
+    "streamlit>=1.61.1",
 ]
